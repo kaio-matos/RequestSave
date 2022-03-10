@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "dev:client": "yarn --cwd ./client/ run dev",
+        "dev:server": "yarn --cwd ./server/ run dev",
+        "dev:migration": "yarn --cwd ./server/ run migratedev:mysql",
+        "development": "yarn concurrently \"yarn dev:server\" \"yarn dev:client\""
+    },
+    "dependencies": {
+        "concurrently": "^7.0.0"
+    }
+}

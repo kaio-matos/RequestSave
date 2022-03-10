@@ -1,0 +1,8 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/kaio-matos/requestsave-server.git
+	branch = main
+[submodule "client"]
+	path = client
+	url = https://github.com/kaio-matos/requestsave-client.git
+	branch = main

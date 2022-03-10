@@ -1,0 +1,14 @@
+node_modules
+
+# Temporary
+/src/temporary.ts
+yarn-error.log
+
+
+# Environment variables
+.env
+/config/dev.env
+/config/production.env
+
+# Build
+/dist
