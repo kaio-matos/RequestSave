@@ -77,29 +77,29 @@ Obs: Execute os comandos abaixo no root do projeto.
 ### Tecnologias utilizadas
 
 - Typescript
-  - React JS
-    - React Query + Axios
+  - **React JS**
+    - **React Query + Axios**
       - Para fazer requisições HTTP ao servidor de forma segura e otimizada
-    - React Router Dom
+    - **React Router Dom**
       - Para fazer o roteamento das páginas
-    - Yup
+    - **Yup**
       - Para validação dos dados que serão enviados ao servidor
-    - Material UI + Material UI x-data-grid
+    - **Material UI + Material UI x-data-grid**
       - Para construção das telas de forma rápida e tabelas com muitas funcionalidades
-    - CSS
+    - **CSS**
       - Para fazer alterações de acordo com meu gosto
 
-  - Node JS
-    - Express + express-async-errors
+  - **Node JS**
+    - **Express + express-async-errors**
       - Para a construção da API de forma ágil, e lidar com erros de forma limpa
-    - Dotenv
+    - **Dotenv**
       - Para o aramazenamento de chaves
-    - Joi
+    - **Joi**
       - Para a validação de dados recebidos das requisições
-    - JWT
+    - **JWT**
       - Para criar sessões de login
-    - Prisma + MYSQL
+    - **Prisma + MYSQL**
       - Para lidar com o banco de dados MYSQL de uma forma segura, otimizada e simples
-    - Bcryptjs
+    - **Bcryptjs**
       - Para a criptografia das senhas dos usuários
   
