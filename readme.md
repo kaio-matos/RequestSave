@@ -93,7 +93,7 @@ Obs: Execute os comandos abaixo no root do projeto.
     - **Express + express-async-errors**
       - Para a construção da API de forma ágil, e lidar com erros de forma limpa
     - **Dotenv**
-      - Para o aramazenamento de chaves
+      - Para o armazenamento de chaves
     - **Joi**
       - Para a validação de dados recebidos das requisições
     - **JWT**
