@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "postinstall": "yarn --cwd ./client install && yarn --cwd ./server install",
         "dev:client": "yarn --cwd ./client/ run dev",
         "dev:server": "yarn --cwd ./server/ run dev",
         "dev:migration": "yarn --cwd ./server/ run migratedev:mysql",
