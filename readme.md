@@ -103,3 +103,6 @@ Obs: Execute os comandos abaixo no root do projeto.
     - **Bcryptjs**
       - Para a criptografia das senhas dos usuários
   
+<a href="https://www.linkedin.com/in/kaio-matos/" target="_blank">
+  <img width="50" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
+<a/>  
